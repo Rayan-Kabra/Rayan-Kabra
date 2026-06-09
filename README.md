@@ -2,7 +2,7 @@
 
 <h2>🧑🏻‍💻 About me</h2>
 
-Hello, I'am Rayan 👋
+Hello, I'm Rayan 👋
 
 I started coding six years ago as a self-taught developer, driven by curiosity and a genuine interest in how things work under the hood.
 
